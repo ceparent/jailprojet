@@ -1,4 +1,3 @@
-user: supercharlicool	#
-pass: kP5TX4NH2yR6	#
-			#
-#########################
+user: supercharlicool	
+pass: kP5TX4NH2yR6	
+host:https://jailprojet.googlecode.com/svn/trunk/	
