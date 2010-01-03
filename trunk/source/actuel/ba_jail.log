@@ -7876,3 +7876,158 @@ physics               [variable]      172255/4194304  ( 4.1%)
 Total triangle count: 9732
 Writing c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.bsp
 5 minutes, 59 seconds elapsed
+
+
+
+materialPath: c:\program files\steam\steamapps\jaunais169\counter-strike source\cstrike\materials
+Loading C:\Users\Moi\Desktop\ba_jail_projet\source\actuel\ba_jail.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 114 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Moi\Desktop\ba_jail_projet\source\actuel\ba_jail.prt...done (0)
+Creating default cubemaps for env_cubemap using skybox materials:
+skybox/green*.vmt
+Run buildcubemaps in the engine to get the correct cube maps.
+
+No such variable "$hdrbasetexture" for material "skybox/greenrt"
+Can't load skybox file skybox/green to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (263575 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 630 texinfos to 457
+Reduced 18 texdatas to 17 (437 bytes to 388)
+Writing C:\Users\Moi\Desktop\ba_jail_projet\source\actuel\ba_jail.bsp
+2 seconds elapsed
+
+
+
+2 threads
+reading c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.bsp
+reading c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.prt
+ 881 portalclusters
+2350 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+WARNING: Cluster portals saw into cluster
+Optimized: 525 visible clusters (0.00%)
+Total clusters visible: 237482
+Average clusters visible: 269
+Building PAS...
+Average clusters audible: 601
+visdatasize:157613  compressed from 197344
+writing c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.bsp
+5 minutes, 43 seconds elapsed
+
+
+
+Could not find lights.rad in lights.rad.
+Trying VRAD BIN directory instead...
+Warning: Couldn't open texlight file c:\program files\steam\steamapps\jaunais169\sourcesdk\bin\ep1\bin\lights.rad.
+Loading c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.bsp
+5591 faces
+2 degenerate faces
+2570367 square feet [370132896.00 square inches]
+1 displacements
+110442 square feet [15903709.00 square inches]
+5589 patches before subdivision
+173811 patches after subdivision
+46 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28059303, max 1146
+transfer lists: 214.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1019834, 591602, 193669)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(151543, 43188, 7683)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(33695, 3352, 463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(9536, 305, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3653, 30, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1414, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(289, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(145, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(69, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(37, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2239 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ComputePerLeafAmbientLighting: 0...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  10/1024          480/49152    ( 1.0%) 
+brushes                593/8192         7116/98304    ( 7.2%) 
+brushsides            6510/65536       52080/524288   ( 9.9%) 
+planes                6614/65536      132280/1310720  (10.1%) 
+vertexes              8953/65536      107436/786432   (13.7%) 
+nodes                 1869/65536       59808/2097152  ( 2.9%) 
+texinfos               457/12288       32904/884736   ( 3.7%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos                1/0             176/0        ( 0.0%) 
+disp_verts             289/0            5780/0        ( 0.0%) 
+disp_tris              512/0            1024/0        ( 0.0%) 
+disp_lmsamples       45943/0           45943/0        ( 0.0%) 
+faces                 5591/65536      313096/3670016  ( 8.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2538/65536      142128/3670016  ( 3.9%) 
+leaves                1880/65536       60160/2097152  ( 2.9%) 
+leaffaces             6552/65536       13104/131072   (10.0%) 
+leafbrushes           1868/65536        3736/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            35569/512000     142276/2048000  ( 6.9%) 
+edges                20481/256000      81924/1024000  ( 8.0%) 
+LDR worldlights         46/8192         4048/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+waterstrips            267/32768        2670/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4071/65536        8142/131072   ( 6.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6199312/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      157613/16777216 ( 0.9%) 
+entdata               [variable]       16235/393216   ( 4.1%) 
+LDR leaf ambient      1880/65536       45120/1572864  ( 2.9%) 
+HDR leaf ambient         0/65536           0/1572864  ( 0.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       10321/0        ( 0.0%) 
+
+Level flags = 0
+
+Win32 Specific Data:
+physics               [variable]      263575/4194304  ( 6.3%) 
+==== Total Win32 BSP file data space used: 7909049 bytes ====
+
+Total triangle count: 13964
+Writing c:\users\moi\desktop\ba_jail_projet\source\actuel\ba_jail.bsp
+6 minutes, 12 seconds elapsed
